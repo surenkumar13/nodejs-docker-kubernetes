@@ -29,6 +29,8 @@ kubectl -n example-app get deploy
 kubectl -n example-app get pods
 
 kubectl -n example-app get logs podname
+
+modifications 
 ```
 
 
