@@ -30,7 +30,7 @@ kubectl -n example-app get pods
 
 kubectl -n example-app get logs podname
 
-modifications 12345
+modifications 1234567
 ```
 
 
