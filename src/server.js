@@ -8,7 +8,32 @@ const HOST = '0.0.0.0';
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello world \n');
+	const htmlContent = `
+
+    <!DOCTYPE html>
+
+    <html>
+
+      <head>
+
+        <title>My Web Page</title>
+
+      </head>
+
+      <body>
+
+        <h1>Hello World!</h1>
+
+        <p>This is some HTML content.</p>
+
+      </body>
+
+    </html>
+
+  `;
+  res.setHeader('Content-Type', 'text/html');
+
+  res.send(htmlContent);
 });
 
 
