@@ -16,13 +16,13 @@ app.get('/', (req, res) => {
 
       <head>
 
-        <title>Demo - Launch Container Deployment!</title>
+        <title>Demo - Launch Container Deployment-v8.0.0!</title>
 
       </head>
 
       <body>
 
-        <h1> Demo - Launch Container Deployment!</h1>
+        <h1> Demo - Launch Container Deployment-v8.0.0!</h1>
 
         <p>HCL DevOps Deploy automates application deployment, middleware configuration, and database updates across on-premise and cloud-based development, testing, and production environments</p>
 
