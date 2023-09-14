@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 
         <h1> Demo - Launch Container Deployment!</h1>
 
-        <p>This is some HTML content.</p>
+        <p>HCL DevOps Deploy automates application deployment, middleware configuration, and database updates across on-premise and cloud-based development, testing, and production environments</p>
 
       </body>
 
