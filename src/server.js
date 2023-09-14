@@ -16,13 +16,13 @@ app.get('/', (req, res) => {
 
       <head>
 
-        <title>My Web Page</title>
+        <title>Demo - Launch Container Deployment!</title>
 
       </head>
 
       <body>
 
-        <h1>Hello World!</h1>
+        <h1> Demo - Launch Container Deployment!</h1>
 
         <p>This is some HTML content.</p>
 
