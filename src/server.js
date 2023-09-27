@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 
       <head>
 
-        <title>Demo - Launch Container Deployment-v9.1.0!</title>
+        <title>Demo - Launch Container Deployment-v10.0.0!</title>
 
       </head>
 
