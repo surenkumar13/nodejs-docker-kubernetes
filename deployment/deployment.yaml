@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: example-deploy2
+  name: example-deploy3
   labels:
     app: example-app
   annotations:
@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: example-app
-        image: surenkumar13/nodejs:9.1.0
+        image: surenkumar13/nodejs:10.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
